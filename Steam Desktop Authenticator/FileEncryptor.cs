@@ -8,6 +8,8 @@ using System.IO;
 
 namespace Steam_Desktop_Authenticator
 {
+
+    
     /// <summary>
     /// This class provides the controls that will encrypt and decrypt the *.maFile files
     /// 

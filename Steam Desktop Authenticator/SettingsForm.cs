@@ -3,6 +3,8 @@ using System.Windows.Forms;
 
 namespace Steam_Desktop_Authenticator
 {
+
+    
     public partial class SettingsForm : Form
     {
         Manifest manifest;
