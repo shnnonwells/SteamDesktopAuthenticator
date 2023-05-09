@@ -24,6 +24,7 @@ del /q "Steam Desktop Authenticator\bin\Release\CefSharp.WinForms.xml"
 del /q "Steam Desktop Authenticator\bin\Release\CefSharp.Core.xml"
 del /q "Steam Desktop Authenticator\bin\Release\CommandLine.xml"
 
+
 REM Remove ClickOnce app
 del /q "Steam Desktop Authenticator\bin\Release\Steam Desktop Authenticator.application"
 RD /S /Q "Steam Desktop Authenticator\bin\Release\app.publish\"
